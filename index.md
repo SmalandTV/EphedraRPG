@@ -1,4 +1,4 @@
-## Smalands guide for Ephedra RPG
+# Smalands guide for Ephedra RPG
 
 # "-Cam 100-150" for camera change
 # "-bag" to summon bag (Needed for Crafting)
