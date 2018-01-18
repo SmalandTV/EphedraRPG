@@ -80,8 +80,24 @@
 ##### Now you wanna head to the level 100 zone<br />
 ![zone 100](https://user-images.githubusercontent.com/35559819/35090141-1eb4a658-fc39-11e7-90c9-8d6976bd5dda.PNG)<br />
 
-## 7th Upgrade boss, if you can't kill this boss, level up some more, next zone is even harder.<br />
+### 7th Upgrade boss, if you can't kill this boss, level up some more, next zone is even harder.<br />
 ![seventh upgrade boss](https://user-images.githubusercontent.com/35559819/35090158-2067fae0-fc39-11e7-8483-d9c2c9b687c6.PNG)<br />
+
+##### After you finished the sluggish giant, you wanna head back to the wolf forest and enter the portal behind the first wolf boss.<br />
+![tp to wolf zone 2](https://user-images.githubusercontent.com/35559819/35090131-1d94bf38-fc39-11e7-975f-55c41a5e9d88.PNG)<br />
+
+##### Now you are in the deeper wolf forest.<br />
+![wolf zone 2](https://user-images.githubusercontent.com/35559819/35090135-1e109a2c-fc39-11e7-93f0-12dd53322118.PNG)<br />
+
+##### Here you can level some more if needed or farm gold for pots.<br />
+##### When you are ready go fight the next boss.<br />
+
+### 8th upgrade boss<br />
+![eighth upgrade boss](https://user-images.githubusercontent.com/35559819/35090148-1f49f49c-fc39-11e7-80f0-88f6fa60ea96.PNG)<br />
+
+
+
+
 
 
 
