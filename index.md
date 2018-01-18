@@ -1,9 +1,9 @@
-# Smalands guide for Ephedra RPG
+# Smalands guide for Ephedra RPG <br />
  			
 "-Cam 100-150" for camera change
--
+<br />
 "-bag" to summon bag (Needed for Crafting)
-_
+
 First of all after selecting your Wisp you will spawn here with your Hero.
 ![spawn point](https://user-images.githubusercontent.com/35559819/35090160-20a1542a-fc39-11e7-801a-3968375503bd.PNG)
 
