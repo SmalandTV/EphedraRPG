@@ -1,20 +1,19 @@
 # Smalands guide for Ephedra RPG <br />
  			
-"-Cam 100-150" for camera change
-<br />
-"-bag" to summon bag (Needed for Crafting)
+##### "-Cam 100-150" for camera change<br />
+##### "-bag" to summon bag (Needed for Crafting)
 
-First of all after selecting your Wisp you will spawn here with your Hero.
+##### First of all after selecting your Wisp you will spawn here with your Hero.<br />
 ![spawn point](https://user-images.githubusercontent.com/35559819/35090160-20a1542a-fc39-11e7-801a-3968375503bd.PNG)
 
-Your bag is in the bagzone, to withdraw it, simply type "-bag"<br />
+##### Your bag is in the bagzone, to withdraw it, simply type "-bag"<br />
 ![bagzone](https://user-images.githubusercontent.com/35559819/35090142-1ed65b4a-fc39-11e7-88b4-dafdd0e719b5.PNG)<br />
 
-This is where you go with your bag to upgrade your items / horn
+##### This is where you go with your bag to upgrade your items / horn<br />
 ![upgrade zone](https://user-images.githubusercontent.com/35559819/35090133-1dd8a518-fc39-11e7-9a2e-a24b53b78523.PNG)<br />
 
-To upgrade your Horn, simply put the Horn item into the bag with a boss soul to upgrade it,
-Then go to the top right corner, into the flame, and the item will be combined.<br />
+##### To upgrade your Horn, simply put the Horn item into the bag with a boss soul to upgrade it,<br />
+##### Then go to the top right corner, into the flame, and the item will be combined.<br />
 ![upgrade zone2](https://user-images.githubusercontent.com/35559819/35090134-1df65518-fc39-11e7-8018-a8a6c5d29886.PNG)<br />
 
 
