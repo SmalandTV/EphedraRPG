@@ -11,3 +11,7 @@ Second you would want to buy your beginner items here.<br />
 ![starter items](https://user-images.githubusercontent.com/35559819/35090163-20d9641e-fc39-11e7-947f-59d91767c017.PNG)
 ![starter item2](https://user-images.githubusercontent.com/35559819/35090161-20bb65e0-fc39-11e7-9fb2-e9d2a7385864.PNG)
 
+After you bought your items you want to start level <br />
+
+Start with leveling here<br />
+![starter leveling](https://user-images.githubusercontent.com/35559819/35090164-20f35176-fc39-11e7-9c5d-673e8fe63f1a.PNG)
