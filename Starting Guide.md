@@ -7,7 +7,19 @@
 First of all after selecting your Wisp you will spawn here with your Hero.
 ![spawn point](https://user-images.githubusercontent.com/35559819/35090160-20a1542a-fc39-11e7-801a-3968375503bd.PNG)
 
-Second you would want to buy your beginner items here.<br />
+Your bag is in the bagzone, to withdraw it, simply type "-bag"<br />
+![bagzone](https://user-images.githubusercontent.com/35559819/35090142-1ed65b4a-fc39-11e7-88b4-dafdd0e719b5.PNG)<br />
+
+This is where you go with your bag to upgrade your items / horn
+![upgrade zone](https://user-images.githubusercontent.com/35559819/35090133-1dd8a518-fc39-11e7-9a2e-a24b53b78523.PNG)<br />
+
+To upgrade your Horn, simply put the Horn item into the bag with a boss soul to upgrade it,
+Then go to the top right corner, into the flame, and the item will be combined.<br />
+![upgrade zone2](https://user-images.githubusercontent.com/35559819/35090134-1df65518-fc39-11e7-8018-a8a6c5d29886.PNG)<br />
+
+
+# Now you got the basics down, you want to start to level and upgrade your items.<br />
+So start with buying your starter items.<br />
 ![starter items](https://user-images.githubusercontent.com/35559819/35090163-20d9641e-fc39-11e7-947f-59d91767c017.PNG)
 ![starter item2](https://user-images.githubusercontent.com/35559819/35090161-20bb65e0-fc39-11e7-9fb2-e9d2a7385864.PNG)
 
