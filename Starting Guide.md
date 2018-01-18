@@ -73,8 +73,8 @@
 ##### Fifth upgrade Boss<br />
 ![fifth upgrade boss](https://user-images.githubusercontent.com/35559819/35090150-1f686de6-fc39-11e7-8c13-4cd48009a227.PNG))<br />
 
-##### After that you want to head into the forest and level up some before encoutering next boss.br />
-##### This is the 6th upgrade boss.<br />
+##### After that you want to head into the forest and level up some before encoutering next boss.<br />
+### This is the 6th upgrade boss.<br />
 ![sixth upgrade boss](https://user-images.githubusercontent.com/35559819/35090159-2087dfea-fc39-11e7-85c4-b225dd7172f1.PNG)
 
 
