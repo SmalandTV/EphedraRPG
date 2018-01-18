@@ -52,17 +52,34 @@
 ## Now you have class and Tier 1, You need to start to re-level again from level 1<br />
 ##### (Tier up resets your level).<br />
 
-After you reach level 30 again you wanna head to the 30+ zone<br />
+##### After you reach level 30 again you wanna head to the 30+ zone<br />
 ![zone 30](https://user-images.githubusercontent.com/35559819/35090139-1e7cdb56-fc39-11e7-9768-4d584f060df4.PNG)<br />
 ![zone 30 path 1 n 2](https://user-images.githubusercontent.com/35559819/35090138-1e5fa69e-fc39-11e7-9074-e5e0211de6f3.PNG)<br />
 
-Next Upgrade Boss<br />
+##### Third upgrade Boss<br />
 ![third upgrade boss](https://user-images.githubusercontent.com/35559819/35090165-2111e2ee-fc39-11e7-8c5f-dc8bf118e7a8.PNG)<br />
 
-After you finished with left side, go to the right side<br />
+##### After you finished with left side, go to the right side<br />
 
-Next Upgrade Boss<br />
+##### Fourth upgrade Boss<br />
 ![fourth upgrade boss](https://user-images.githubusercontent.com/35559819/35090152-1fa6cf3c-fc39-11e7-8859-e39ae5bf3e88.PNG)<br />
+
+##### Next Zone level 50+<br />
+![zone 50](https://user-images.githubusercontent.com/35559819/35090140-1e96cb24-fc39-11e7-8fae-a67e6f4aafba.PNG)
+
+##### On the straight pathway to the forest there is a boss,<br />
+##### He drop your next upgrades you need.<br />
+
+##### Fifth upgrade Boss<br />
+![fifth upgrade boss](https://user-images.githubusercontent.com/35559819/35090150-1f686de6-fc39-11e7-8c13-4cd48009a227.PNG))<br />
+
+##### After that you want to head into the forest and level up some before encoutering next boss.br />
+##### This is the 6th upgrade boss.<br />
+![sixth upgrade boss](https://user-images.githubusercontent.com/35559819/35090159-2087dfea-fc39-11e7-85c4-b225dd7172f1.PNG)
+
+
+
+
 
 
 
