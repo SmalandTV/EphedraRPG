@@ -126,7 +126,7 @@
 ![tier 2 boss zone](https://user-images.githubusercontent.com/35559819/35090130-1d745644-fc39-11e7-935b-7b82c334417a.PNG)<br />
 
 ##### This Tier boss drop a Boss soul that is used to upgrade your horn and a TIER UP MATERIAL to tier up.<br />
-![tier 2 boss zone](https://user-images.githubusercontent.com/35559819/35090130-1d745644-fc39-11e7-935b-7b82c334417a.PNG)<br />
+![tier 2 boss mat tier item drop](https://user-images.githubusercontent.com/35559819/35090129-1d549476-fc39-11e7-9895-e2400e931a40.PNG)<br />
 
 ##### Now when you got your TIER UP ITEM, you wanna go back to the spawn zone<br />
 ![go here to tier 2 with item](https://user-images.githubusercontent.com/35559819/35090153-1fd919a6-fc39-11e7-8593-f025c6bfef02.PNG)
