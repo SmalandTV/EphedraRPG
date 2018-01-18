@@ -92,8 +92,36 @@
 ##### Here you can level some more if needed or farm gold for pots.<br />
 ##### When you are ready go fight the next boss.<br />
 
+##### This boss drop wolf leather material that is needed to upgrade the Horn and your Armor this time.<br />
+##### Horn + Wolf leather = Horn upgrade (Remember everyting is combined trought the bag at the blacksmith)<br />
+##### Armor + Wolf leather = Armor upgrade<br />
+
 ### 8th upgrade boss<br />
 ![eighth upgrade boss](https://user-images.githubusercontent.com/35559819/35090148-1f49f49c-fc39-11e7-80f0-88f6fa60ea96.PNG)<br />
+
+##### Now is where the hard part start, its doable but its hard and take time if youre solo player.
+##### You going to head down to the Desert Area
+![desert zone](https://user-images.githubusercontent.com/35559819/35090146-1f2c3682-fc39-11e7-8d40-fb25e75b852b.PNG)<br />
+
+##### These normal scorpions drop a material and a key, the key is used to enter the Desert cave / secret cave where the boss is.<br />
+![scorpion drop key mat](https://user-images.githubusercontent.com/35559819/35090156-202bcc5a-fc39-11e7-9562-5802670bb907.PNG)<br />
+
+##### When you have a key you can enter the Desert cave/Secret cave.<br />
+![desert cave entrence key needed](https://user-images.githubusercontent.com/35559819/35090145-1f116f50-fc39-11e7-8e16-d5cd3c2f9383.PNG)<br />
+
+##### Now you're inside the Cave.<br />
+![cave beware of poison attacks](https://user-images.githubusercontent.com/35559819/35090143-1ef4dcf0-fc39-11e7-90d7-3e0a2da10eda.PNG)<br />
+##### You will encounter harder scorpions which have Poison attack on hit, and the posion do alot of overall damage.<br />
+##### These Red Scorpions also drop a key and a new material, the material is used to upgrade your weapon which will help you alot.<br />
+![red poison scorp key mat](https://user-images.githubusercontent.com/35559819/35090155-200c652c-fc39-11e7-9145-fe3f3ea78dec.PNG)<br />
+
+##### The boss you are going to fight this time is really hard.<br />
+##### Horn + Scorpion boss Soul = Horn Upgrade<br />
+##### 2k Damage Weapon + Scorpion Material + Scorpion boss Soul = Weapon Upgrade<br />
+
+### 9th upgrade Boss<br />
+![ninth upgrade boss](https://user-images.githubusercontent.com/35559819/35090154-1ff38ab6-fc39-11e7-8c3a-2691c52ed89a.PNG)<br />
+
 
 
 
