@@ -27,11 +27,10 @@ So start with buying your starter items.<br />
 Start with leveling here<br />
 ![starter leveling](https://user-images.githubusercontent.com/35559819/35090164-20f35176-fc39-11e7-9c5d-673e8fe63f1a.PNG)
 
-##After you got 400 gold in total go back to the beginner shop and buy yourself the Horn item.
-<br />
-<br />
-Now we move on to the next leveling zone and where you get new items.<br />
-Stay in this zone til you have new sword, armor and upgraded the horn.<br />
+## After you got 400 gold in total go back to the beginner shop and buy yourself the Horn item.<br />
+
+##### Now we move on to the next leveling zone and where you get new items.<br />
+##### Stay in this zone til you have new sword, armor and upgraded the horn.<br />
 
 Boss who drop the items<br />
 ![first upgrade boss](https://user-images.githubusercontent.com/35559819/35090151-1f8ac3b4-fc39-11e7-810f-450b84841b3d.PNG)
