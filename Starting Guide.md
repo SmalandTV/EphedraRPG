@@ -122,6 +122,18 @@
 ### 9th upgrade Boss<br />
 ![ninth upgrade boss](https://user-images.githubusercontent.com/35559819/35090154-1ff38ab6-fc39-11e7-8c3a-2691c52ed89a.PNG)<br />
 
+## Well done, this time its Tier up time, you will need lvl 300 to enter the Tier boss zone.<br />
+![tier 2 boss zone](https://user-images.githubusercontent.com/35559819/35090130-1d745644-fc39-11e7-935b-7b82c334417a.PNG)<br />
+
+##### This Tier boss drop a Boss soul that is used to upgrade your horn and a TIER UP MATERIAL to tier up.<br />
+![tier 2 boss zone](https://user-images.githubusercontent.com/35559819/35090130-1d745644-fc39-11e7-935b-7b82c334417a.PNG)<br />
+
+##### Now when you got your TIER UP ITEM, you wanna go back to the spawn zone<br />
+![go here to tier 2 with item](https://user-images.githubusercontent.com/35559819/35090153-1fd919a6-fc39-11e7-8593-f025c6bfef02.PNG)
+
+## GGWP, you are now Tier 2. more info will be added when i progress further myself.
+
+
 
 
 
