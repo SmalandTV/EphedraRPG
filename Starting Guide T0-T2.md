@@ -157,7 +157,6 @@
 <br />
 ### 12th Horn Upgrade Boss
 ![cerberusboss](https://user-images.githubusercontent.com/35559819/35173890-6f7e4046-fd6d-11e7-900e-10173b8b0f13.PNG)
-<br />
 
 
 
