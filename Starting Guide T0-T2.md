@@ -192,4 +192,19 @@
 ##### Now when you have all the 3 fragments, you wanna put them in your bag and go to the black smith and create the 5th item, Key of Moon.
 ##### Now its time to do the Tier 3 Boss.
 ##### Head back to town and go to this place.
+![zone 100](https://user-images.githubusercontent.com/35559819/35174940-a1e7e682-fd71-11e7-9e34-72507fc0a2a9.PNG)
+<br />
+##### Now go here and follow the path north, then go right and you will see the Tier 3 Boss.
+![thenhere](https://user-images.githubusercontent.com/35559819/35174927-87afb13c-fd71-11e7-9494-3e5ccd1e6867.PNG)
+<br />
 
+### TIER 3 BOSS, BEWARE, HARD.
+![t3 boss](https://user-images.githubusercontent.com/35559819/35174928-8d245bf4-fd71-11e7-9a9f-d6bf023b5b40.PNG)
+<br />
+<br />
+##### Good Job, you got the Tier up item and now you wanna go to this zone to Tier up!
+![tier3point](https://user-images.githubusercontent.com/35559819/35175011-fd54e092-fd71-11e7-8519-25be7ea0cd63.PNG)
+<br />
+<br />
+
+### GGWP, You Now t3, I'll add more content when i progressed further myself.
