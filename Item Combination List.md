@@ -10,9 +10,11 @@
 ##### Horn of Greater Evil + Zion Witchcraft = Horn of Superlative Demon
 ##### Horn of Superlative Demon + Parque Witchcraft = Horn of Baron Devil (400 all stats)
 ##### Horn of Baron Devil (400 all stats) + Cartagena Witchcraft = Horn of Baron Devil (500 all stats)
-##### Horn of Baron Devil (500 all stats) + <br />
-
-
+##### Horn of Baron Devil (500 all stats) +
+<br />
+<br />
+<br />
+<br />
 ### Sword Combination List
 
 ##### Sword of Lesser knight + Energy of Scorpion + 
