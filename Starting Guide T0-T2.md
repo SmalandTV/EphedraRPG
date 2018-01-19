@@ -162,21 +162,19 @@
 <br />
 <br />
 
-##### After you finished upgrade your cerberus horn and your weapon, You wanna grab and extra Cerberus Witchraft, Sludge Witchcraft and Red giant Witchcraft and combine those 3 with your class item at the blacksmith to upgrade your class item.
-##### Now it's time to get your 5th item, The Moon Key.
+##### After you finished upgrade your cerberus horn and your weapon, You wanna grab and extra Cerberus Witchraft, Sludge Witchcraft and Red giant Witchcraft and combine those 3 with your class item at the blacksmith to upgrade your class item.<br />
+##### Now it's time to get your 5th item, The Moon Key.<br />
 <br />
 <br />
 
-##### Go behind Cerberus and follow the path til you encounter Succubus, this is the area you wanna be, level 500 req.
-##### First of all you gonna kill the Boss in this zone, Warden, She drops the Key of Moon (1) Fragment, 3 diffrent fragments is needed in total to craft the item.
+##### Go behind Cerberus and follow the path til you encounter Succubus, this is the area you wanna be, level 500 req.<br />
+##### First of all you gonna kill the Boss in this zone, Warden, She drops the Key of Moon (1) Fragment, 3 diffrent fragments is needed in total to craft the item.<br />
 <br />
 
-### Key Fragment 1 Boss
+### Key Fragment 1 Boss<br />
 ![wardenkey1](https://user-images.githubusercontent.com/35559819/35173900-70a8a8b2-fd6d-11e7-8ae7-37ac008c34e1.PNG)
 <br />
 
 ##### After this you wanna start kill the succubus to gain the item that teleport you to the Human World were the 2 bosses are for the Key of Moon.
 ![succubushumankey](https://user-images.githubusercontent.com/35559819/35173899-7088698a-fd6d-11e7-804d-b2d1c5573e8e.PNG
 <br />
-
-
