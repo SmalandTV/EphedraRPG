@@ -18,9 +18,11 @@
 
 ### Sword Combination List
 
-##### Sword of Lesser knight + Energy of Scorpion + 
-
-
+##### Sword of Lesser knight + Energy of Scorpion +
+<br />
+<br />
+<br />
+<br />
 
 ### Armor Combination List
 ##### Armor of Lesser knight + Leather of Werewolf + Cartagena Witchraft = Armor of Werewolf
