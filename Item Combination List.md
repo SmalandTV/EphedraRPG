@@ -11,7 +11,9 @@
 ##### Horn of Superlative Demon + Parque Witchcraft = Horn of Baron Devil (400 all stats)
 ##### Horn of Baron Devil (400 all stats) + Cartagena Witchcraft = Horn of Baron Devil (500 all stats)
 ##### Horn of Baron Devil (500 all stats) + Rag Hebrews Witchcraft = Horn of Birch Devil
-##### Horn of Birch Devil + Kar-di-um Witchcraft = 
+##### Horn of Birch Devil + Long-Straw Witchcraft = Horn of Count Devil
+##### Horn of Count Devil + Kar-Di-um Witchcraft = Horn of Marquis Devil
+##### Horn of Marquis Devil + Cerberus Witchcraft = Horn of Duke Devil
 <br />
 <br />
 <br />
