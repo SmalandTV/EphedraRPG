@@ -56,12 +56,12 @@
 ![zone 30](https://user-images.githubusercontent.com/35559819/35090139-1e7cdb56-fc39-11e7-9768-4d584f060df4.PNG)<br />
 ![zone 30 path 1 n 2](https://user-images.githubusercontent.com/35559819/35090138-1e5fa69e-fc39-11e7-9074-e5e0211de6f3.PNG)<br />
 
-### 3rd upgrade Boss<br />
+### 3rd Horn upgrade Boss<br />
 ![third upgrade boss](https://user-images.githubusercontent.com/35559819/35090165-2111e2ee-fc39-11e7-8c5f-dc8bf118e7a8.PNG)<br />
 
 ##### After you finished with left side, go to the right side<br />
 
-### 4th upgrade Boss<br />
+### 4th Horn upgrade Boss<br />
 ![fourth upgrade boss](https://user-images.githubusercontent.com/35559819/35090152-1fa6cf3c-fc39-11e7-8859-e39ae5bf3e88.PNG)<br />
 
 ##### Next Zone level 50+<br />
@@ -70,7 +70,7 @@
 ##### On the straight pathway to the forest there is a boss,<br />
 ##### He drop your next upgrades you need.<br />
 
-### 5th upgrade Boss<br />
+### 5th Horn upgrade Boss<br />
 ![fifth upgrade boss](https://user-images.githubusercontent.com/35559819/35090150-1f686de6-fc39-11e7-8c13-4cd48009a227.PNG))<br />
 
 ##### After that you want to head into the forest and level up some before encoutering next boss.<br />
@@ -81,7 +81,7 @@
 ##### Now you wanna head to the level 100 zone<br />
 ![zone 100](https://user-images.githubusercontent.com/35559819/35090141-1eb4a658-fc39-11e7-90c9-8d6976bd5dda.PNG)<br />
 
-### 7th Upgrade boss, if you can't kill this boss, level up some more, next zone is even harder.<br />
+### 7th Horn Upgrade boss, if you can't kill this boss, level up some more, next zone is even harder.<br />
 ![seventh upgrade boss](https://user-images.githubusercontent.com/35559819/35090158-2067fae0-fc39-11e7-8483-d9c2c9b687c6.PNG)<br />
 
 ##### After you finished the sluggish giant, you wanna head back to the wolf forest and enter the portal behind the first wolf boss.<br />
@@ -97,7 +97,7 @@
 ##### Horn + Wolf leather = Horn upgrade (Remember everyting is combined trought the bag at the blacksmith)<br />
 ##### Armor + Wolf leather = Armor upgrade<br />
 
-### 8th upgrade boss<br />
+### 8th Horn upgrade boss<br />
 ![eighth upgrade boss](https://user-images.githubusercontent.com/35559819/35090148-1f49f49c-fc39-11e7-80f0-88f6fa60ea96.PNG)<br />
 
 ##### Now is where the hard part start, its doable but its hard and take time if youre solo player.
@@ -120,7 +120,7 @@
 ##### Horn + Scorpion boss Soul = Horn Upgrade<br />
 ##### 2k Damage Weapon + Scorpion Material + Scorpion boss Soul = Weapon Upgrade<br />
 
-### 9th upgrade Boss<br />
+### 9th Horn upgrade Boss<br />
 ![ninth upgrade boss](https://user-images.githubusercontent.com/35559819/35090154-1ff38ab6-fc39-11e7-8c3a-2691c52ed89a.PNG)<br />
 
 ## Well done, this time its Tier up time, you will need lvl 300 to enter the Tier boss zone.<br />
@@ -141,6 +141,25 @@
 ##### Next boss on the schedule is the Red Giant, This one throw a stunning rock on you, beware.
 ##### But before killing the boss you want to kill the small red giants, they drop a material needed to upgrade your armor of less knight.
 ![smallredgiantarmor](https://user-images.githubusercontent.com/35559819/35173898-70677e46-fd6d-11e7-94d5-f4797b6317bb.PNG)<br />
+
+### 11th Horn Upgrade Boss
+![redgiantboss](https://user-images.githubusercontent.com/35559819/35173896-702a63bc-fd6d-11e7-9d21-38b79cdf2f52.PNG)
+<br />
+<br />
+<br />
+<br />
+
+##### Now you wanna head back to the forest and go down to the Cerberus monsters, This is the area for next horn and weapon upgrade.
+##### The small Cerberus drop a material needed for the weapon, Ceberus Teeth.
+![smallcerberustooth](https://user-images.githubusercontent.com/35559819/35173897-70481664-fd6d-11e7-8255-c15b586cf1c4.PNG)
+<br />
+##### After you have the theeth, you wanna fight the Cerberus Boss which drop the material needed for sword and horn upgrade.
+<br />
+### 12th Horn Upgrade Boss
+![cerberusboss](https://user-images.githubusercontent.com/35559819/35173890-6f7e4046-fd6d-11e7-900e-10173b8b0f13.PNG)
+<br />
+
+
 
 
 
