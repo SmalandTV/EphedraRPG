@@ -10,16 +10,16 @@
 ##### Horn of Greater Evil + Zion Witchcraft = Horn of Superlative Demon
 ##### Horn of Superlative Demon + Parque Witchcraft = Horn of Baron Devil (400 all stats)
 ##### Horn of Baron Devil (400 all stats) + Cartagena Witchcraft = Horn of Baron Devil (500 all stats)
-##### Horn of Baron Devil (500 all stats) +
+##### Horn of Baron Devil (500 all stats) + Rag Hebrews Witchcraft = Horn of Birch Devil
+##### Horn of Birch Devil + Kar-di-um Witchcraft = 
 <br />
 <br />
 <br />
 <br />
 
 ### Sword Combination List
-
-##### Sword of Lesser knight + Energy of Scorpion + Rag = Sword of Scorpion
-##### Sword of Scorpion + Cerberus Teeth + Cerebrus Witchcraft = Sword of Cerberus
+##### Sword of Lesser knight + Energy of Scorpion + Rag Hebrews Witchcraft = Sword of Scorpion
+##### Sword of Scorpion + Cerberus Teeth + Cerberus Witchcraft = Sword of Cerberus
 <br />
 <br />
 <br />
@@ -27,3 +27,17 @@
 
 ### Armor Combination List
 ##### Armor of Lesser knight + Leather of Werewolf + Cartagena Witchraft = Armor of Werewolf
+##### Armor of Werewolf + Fragments of Golem Monuments + Kar-di-um Witchcraft = Armor of Golem
+<br />
+<br />
+<br />
+<br />
+### Class item upgrade List
+##### First Class item + Cerberus Witchcraft + Sludge + Red Giant = First Upgrade Class Item
+<br />
+<br />
+<br />
+<br />
+
+### Fifth Item Combination ###
+##### Key of Moon (1) + Key of Moon (2) + Key of Moon (3) = Key of Moon
