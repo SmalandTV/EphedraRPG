@@ -175,6 +175,21 @@
 ![wardenkey1](https://user-images.githubusercontent.com/35559819/35173900-70a8a8b2-fd6d-11e7-8ae7-37ac008c34e1.PNG)
 <br />
 
-##### After this you wanna start kill the succubus to gain the item that teleport you to the Human World were the 2 bosses are for the Key of Moon.
-![succubushumankey](https://user-images.githubusercontent.com/35559819/35173899-7088698a-fd6d-11e7-804d-b2d1c5573e8e.PNG
+##### After this you wanna start kill the succubus to gain the item that teleport you to the Human World were the 2 bosses are for the Key of Moon.<br />
+![succubushumankey](https://user-images.githubusercontent.com/35559819/35173899-7088698a-fd6d-11e7-804d-b2d1c5573e8e.PNG)
 <br />
+<br />
+
+##### Now you are in the Human World, here we will fight 2 bosses,
+### The Boss that drop the Second Key fragment
+![key2boss](https://user-images.githubusercontent.com/35559819/35173893-6fd6f614-fd6d-11e7-99a9-18289f357725.PNG)
+<br />
+<br />
+
+##### The boss that drop the Third key fragment
+![key3boss](https://user-images.githubusercontent.com/35559819/35173894-6ff21e94-fd6d-11e7-823e-30dd62621ebb.PNG)
+<br />
+##### Now when you have all the 3 fragments, you wanna put them in your bag and go to the black smith and create the 5th item, Key of Moon.
+##### Now its time to do the Tier 3 Boss.
+##### Head back to town and go to this place.
+
