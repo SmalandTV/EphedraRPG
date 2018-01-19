@@ -36,7 +36,7 @@
 <br />
 
 ### Class item upgrade List
-##### First Class item + Cerberus Witchcraft + Sludge + Red Giant = First Upgrade Class Item
+##### First Class item + Cerberus Witchcraft + Long-Straw Witchcraf + Kar-Di-um Witchcraft = First Upgrade Class Item
 <br />
 <br />
 <br />
