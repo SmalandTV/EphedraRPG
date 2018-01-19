@@ -34,6 +34,7 @@
 <br />
 <br />
 <br />
+
 ### Class item upgrade List
 ##### First Class item + Cerberus Witchcraft + Sludge + Red Giant = First Upgrade Class Item
 <br />
