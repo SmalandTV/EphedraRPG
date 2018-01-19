@@ -132,7 +132,17 @@
 ##### Now when you got your TIER UP ITEM, you wanna go back to the spawn zone<br />
 ![go here to tier 2 with item](https://user-images.githubusercontent.com/35559819/35090153-1fd919a6-fc39-11e7-8593-f025c6bfef02.PNG)
 
-## GGWP, you are now Tier 2. more info will be added when i progress further myself.
+## GGWP, you are now Tier 2.
+<br />
+<br />
+<br />
+<br />
+
+##### Next boss on the schedule is the Red Giant, This one throw a stunning rock on you, beware.
+##### But before killing the boss you want to kill the small red giants, they drop a material needed to upgrade your armor of less knight.
+![smallredgiantarmor](https://user-images.githubusercontent.com/35559819/35173898-70677e46-fd6d-11e7-94d5-f4797b6317bb.PNG)<br />
+
+
 
 
 
