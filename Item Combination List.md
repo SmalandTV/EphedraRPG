@@ -11,3 +11,13 @@
 ##### Horn of Superlative Demon + Parque Witchcraft = Horn of Baron Devil (400 all stats)
 ##### Horn of Baron Devil (400 all stats) + Cartagena Witchcraft = Horn of Baron Devil (500 all stats)
 ##### Horn of Baron Devil (500 all stats) + 
+
+
+### Sword Combination List
+
+##### Sword of Lesser knight + Energy of Scorpion + 
+
+
+
+### Armor Combination List
+##### Armor of Lesser knight + Leather of Werewolf + Cartagena Witchraft = Armor of Werewolf
