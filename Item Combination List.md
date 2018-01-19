@@ -18,7 +18,8 @@
 
 ### Sword Combination List
 
-##### Sword of Lesser knight + Energy of Scorpion +
+##### Sword of Lesser knight + Energy of Scorpion + Rag = Sword of Scorpion
+##### Sword of Scorpion + Cerberus Teeth + Cerebrus Witchcraft = Sword of Cerberus
 <br />
 <br />
 <br />
