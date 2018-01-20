@@ -211,7 +211,7 @@
 <br />
 <br />
 
-##### Next zone you wanna head into is the deeper human world, you want to head back to the key fragment bosses in the human world and go into the flames. ( REQ KEY OF MOON COMPLETED )
+##### Next zone you wanna head into the further human world, you want to head back to the key fragment bosses in the human world and go into the flames. ( REQ KEY OF MOON COMPLETED )
 ![nextzoneentrenceafterkeyofmoon](https://user-images.githubusercontent.com/35559819/35184524-128def64-fdf7-11e7-9371-568ee5474526.PNG)
 <br />
 <br />
@@ -219,4 +219,12 @@
 ![smallsatyrwingsoflight](https://user-images.githubusercontent.com/35559819/35184542-53ba68aa-fdf7-11e7-8340-e147bddff6cb.PNG)
 <br />
 <br />
+
+### 13th Horn Upgrade Boss
+##### This boss also drop material to upgrade Sword and Armor
+![devilboss1](https://user-images.githubusercontent.com/35559819/35184564-a6d3a308-fdf7-11e7-96f2-f4131f3ebf7f.PNG)
+<br />
+<br />
+# More content will be added as i progress further myself
+
 
