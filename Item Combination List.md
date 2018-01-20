@@ -14,6 +14,7 @@
 ##### Horn of Birch Devil + Long-Straw Witchcraft = Horn of Count Devil
 ##### Horn of Count Devil + Kar-Di-um Witchcraft = Horn of Marquis Devil
 ##### Horn of Marquis Devil + Cerberus Witchcraft = Horn of Duke Devil
+##### Horn of Duke Devil + 
 <br />
 <br />
 <br />
@@ -23,6 +24,7 @@
 ##### Sword of Lesser knight + Energy of Scorpion + Rag Hebrews Witchcraft = Sword of Scorpion
 ##### Sword of Scorpion + Cerberus Teeth + Cerberus Witchcraft = Sword of Cerberus
 ##### Sword of cerberus + Key of Moon (2) = Sword of Payimon
+##### Sword of Payimon + Dead Witchcraft + Powerful Dead Witchcraft = Sword of Desired Payimon
 <br />
 <br />
 <br />
@@ -32,6 +34,7 @@
 ##### Armor of Lesser knight + Leather of Werewolf + Cartagena Witchraft = Armor of Werewolf
 ##### Armor of Werewolf + Fragments of Golem Monuments + Kar-di-um Witchcraft = Armor of Golem
 ##### Armor of Golem + Key of Moon (3) = Armor of Al Berry
+##### Armor of Al Berry + 
 <br />
 <br />
 <br />
