@@ -139,6 +139,10 @@
 <br />
 
 ##### Next boss on the schedule is the Red Giant, This one throw a stunning rock on you, beware.
+##### To enter this zone you need the key from the red scorpions and go to this place with the key in your inventory.
+![toredgiants](https://user-images.githubusercontent.com/35559819/35182366-b8bbd226-fdd3-11e7-9811-ce4f1c721fbb.PNG)
+<br />
+
 ##### But before killing the boss you want to kill the small red giants, they drop a material needed to upgrade your armor of less knight.
 ![smallredgiantarmor](https://user-images.githubusercontent.com/35559819/35173898-70677e46-fd6d-11e7-94d5-f4797b6317bb.PNG)<br />
 
