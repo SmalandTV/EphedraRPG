@@ -22,6 +22,7 @@
 ### Sword Combination List
 ##### Sword of Lesser knight + Energy of Scorpion + Rag Hebrews Witchcraft = Sword of Scorpion
 ##### Sword of Scorpion + Cerberus Teeth + Cerberus Witchcraft = Sword of Cerberus
+##### Sword of cerberus + Key of Moon (2) = Sword of Payimon
 <br />
 <br />
 <br />
@@ -30,6 +31,7 @@
 ### Armor Combination List
 ##### Armor of Lesser knight + Leather of Werewolf + Cartagena Witchraft = Armor of Werewolf
 ##### Armor of Werewolf + Fragments of Golem Monuments + Kar-di-um Witchcraft = Armor of Golem
+##### Armor of Golem + 
 <br />
 <br />
 <br />
