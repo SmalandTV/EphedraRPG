@@ -211,4 +211,12 @@
 <br />
 <br />
 
-### GGWP, You Now t3, I'll add more content when i progressed further myself.
+##### Next zone you wanna head into is the deeper human world, you want to head back to the key fragment bosses in the human world and go into the flames. ( REQ KEY OF MOON COMPLETED )
+![nextzoneentrenceafterkeyofmoon](https://user-images.githubusercontent.com/35559819/35184524-128def64-fdf7-11e7-9371-568ee5474526.PNG)
+<br />
+<br />
+##### Now you're in the zone with Satyrs, these satyrs drop a Material used to upgrade Sword of Payimon, Armor and Horn.
+![smallsatyrwingsoflight](https://user-images.githubusercontent.com/35559819/35184542-53ba68aa-fdf7-11e7-8340-e147bddff6cb.PNG)
+<br />
+<br />
+
