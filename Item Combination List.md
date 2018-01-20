@@ -31,7 +31,7 @@
 ### Armor Combination List
 ##### Armor of Lesser knight + Leather of Werewolf + Cartagena Witchraft = Armor of Werewolf
 ##### Armor of Werewolf + Fragments of Golem Monuments + Kar-di-um Witchcraft = Armor of Golem
-##### Armor of Golem + 
+##### Armor of Golem + Key of Moon (3) = Armor of Al Berry
 <br />
 <br />
 <br />
