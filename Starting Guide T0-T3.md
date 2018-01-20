@@ -215,7 +215,7 @@
 ![nextzoneentrenceafterkeyofmoon](https://user-images.githubusercontent.com/35559819/35184524-128def64-fdf7-11e7-9371-568ee5474526.PNG)
 <br />
 <br />
-##### Now you're in the zone with Satyrs, these satyrs drop a Material used to upgrade Sword of Payimon, Armor and Horn.
+##### Now you're in the zone with Satyrs, these satyrs drop a Material used to upgrade Sword of Payimon, Armor of Al berry and Horn.
 ![smallsatyrwingsoflight](https://user-images.githubusercontent.com/35559819/35184542-53ba68aa-fdf7-11e7-8340-e147bddff6cb.PNG)
 <br />
 <br />
