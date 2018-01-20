@@ -185,12 +185,12 @@
 <br />
 
 ##### Now you are in the Human World, here we will fight 2 bosses,
-### The Boss that drop the Second Key fragment
+### The Boss that drop the Second Key fragment, THIS FRAGMENT IS ALSO USED FOR UPGRADING SWORD OF CERBERUS
 ![key2boss](https://user-images.githubusercontent.com/35559819/35173893-6fd6f614-fd6d-11e7-99a9-18289f357725.PNG)
 <br />
 <br />
 
-##### The boss that drop the Third key fragment
+### The boss that drop the Third key fragment, THIS FRAGMENT IS ALSO USED FOR UPGRADING GOLEM ARMOR
 ![key3boss](https://user-images.githubusercontent.com/35559819/35173894-6ff21e94-fd6d-11e7-823e-30dd62621ebb.PNG)
 <br />
 ##### Now when you have all the 3 fragments, you wanna put them in your bag and go to the black smith and create the 5th item, Key of Moon.
